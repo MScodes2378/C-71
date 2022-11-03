@@ -1,0 +1,40 @@
+body{
+  background-image: linear-gradient(to bottom right, #9ef7f6, white);
+}
+
+
+.book
+{
+  cursor: pointer;
+}
+
+.sport hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+#heading{
+  margin-left: 45%;
+  font-family: fantasy;
+  font-style: oblique;
+  font-size: 40px;
+}
+
+
